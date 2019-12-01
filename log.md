@@ -8,4 +8,12 @@
 
 **Link to work:** ...nothing yet!
 
+### Day 1: December 1st, 2019
+
+**Today's Progress**: I did the first lesson of Codecademy's CSS course a while ago but i didn't write up notes. I'd forgotten most of it so today I went through it all again and wrote up my notes on dev.to. Looking forward to carrying on with the rest of it tomorrow. 
+
+**Thoughts:** Kind of had a day of coding but not yesterday...it was interview day for the school of code in Bham. This week will involve email/phone checking to find out if i'm through or not. Fingers crossed. 
+
+**Link to work:** https://dev.to/helen8297/codecademy-css-4ba7
+
 
