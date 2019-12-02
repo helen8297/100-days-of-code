@@ -18,13 +18,13 @@
 **Link to work:** https://dev.to/helen8297/codecademy-css-4ba7
 
 
-### Day : 
+### Day 3: December 2nd, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Did the second lesson in Codecademy's CSS course - Visual Rules. Wrote it up on Dev.to
 
-**Thoughts:** 
+**Thoughts:**: Not a lot, got through it quite quickly. Would like to do the pro projects but its expensive to join!
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/css-visual-rules-codecademy-1mgb
 
 
 ### Day : 
