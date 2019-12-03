@@ -13,7 +13,7 @@
 
 **Today's Progress**: I did the first lesson of Codecademy's CSS course a while ago but i didn't write up notes. I'd forgotten most of it so today I went through it all again and wrote up my notes on dev.to. Looking forward to carrying on with the rest of it tomorrow. 
 
-**Thoughts:** Kind of had a day of coding but not yesterday...it was interview day for the school of code in Bham. This week will involve email/phone checking to find out if i'm through or not. Fingers crossed. 
+**Thoughts**: Kind of had a day of coding but not yesterday...it was interview day for the school of code in Bham. This week will involve email/phone checking to find out if i'm through or not. Fingers crossed. 
 
 **Link to work:** https://dev.to/helen8297/codecademy-css-4ba7
 
@@ -22,18 +22,18 @@
 
 **Today's Progress**: Did the second lesson in Codecademy's CSS course - Visual Rules. Wrote it up on Dev.to
 
-**Thoughts:**: Not a lot, got through it quite quickly. Would like to do the pro projects but its expensive to join!
+**Thoughts**: Not a lot, got through it quite quickly. Would like to do the pro projects but its expensive to join!
 
 **Link to work:** https://dev.to/helen8297/css-visual-rules-codecademy-1mgb
 
 
-### Day : 
+### Day 4: December 3rd, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Started the third lesson of Codecademy's CSS course - The box method. 
 
-**Thoughts:** 
+**Thoughts**: Feeling a bit tired. Did an hour. Would like to do pro (again) just to get more used to using what i'm learning...but I also want to get through this so I can start the javascript course. Might finish this, do the javascript course and then try the pro projects perhaps.
 
-**Link to work:**
+**Link to work:** ...coming tomo.
 
 
 ### Day : 
