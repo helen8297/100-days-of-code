@@ -36,12 +36,12 @@
 **Link to work:** ...coming tomo.
 
 
-### Day : 
+### Day 5: December 9th, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Completed the box model lesson on codecademy's CSS course and wrote about it on a dev article so i can't remember it!
 
-**Thoughts:** 
+**Thoughts:** I let this slip for the past 6 days. I've been decorating, doing house jobs and making a long video for a christmas present so i'll have to try harder to fit it in. 
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/codecademy-css-3-the-box-model-454a
 
 
