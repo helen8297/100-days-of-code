@@ -45,3 +45,88 @@
 **Link to work:** https://dev.to/helen8297/codecademy-css-3-the-box-model-454a
 
 
+### Day 6: December 10th, 2019
+
+**Today's Progress**: Paused the codecademy lesson to update my Christmas list. Did it on my github website so had a little practice and updated the css. Had a bug and corrected it - hooray! Also imported a google font i think although it seemed a little too easy.
+
+**Thoughts:**  I want to learn how to do more with my website. I still feel like i'm missing a lot e.g. how to put elements next to each other etc - a lot of basic stuff.
+
+**Link to work:** https://helen8297.github.io/Helensfirstgithub/christmaslist.html
+
+
+
+### Day 7: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+
+### Day 8: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+
+### Day 9: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+
+### Day 10: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+
+### Day 11: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+
+### Day 12: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+
+### Day 13: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
