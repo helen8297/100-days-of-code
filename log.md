@@ -57,11 +57,11 @@
 
 ### Day 7: 
 
-**Today's Progress**: 
+**Today's Progress**: Did the changing the box model lesson from codecademy and wrote it up.
 
-**Thoughts:**  
+**Thoughts:**  Tired - also marked a set of school projects this evening so just had a quick one.
 
-**Link to work:**
+**Link to work:**  https://dev.to/helen8297/codecademy-css-4-changing-box-model-4n94
 
 
 
