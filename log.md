@@ -55,7 +55,7 @@
 
 
 
-### Day 7: 
+### Day 7: December 11th, 2019
 
 **Today's Progress**: Did the changing the box model lesson from codecademy and wrote it up.
 
@@ -66,11 +66,11 @@
 
 
 
-### Day 8: 
+### Day 8: December 18th, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Completed half the markdown tutorial ready for January and wrote it up on dev.to so i can refer back to it later.
 
-**Thoughts:**  
+**Thoughts:**  Feel a bit bad about not coding every single day, but the last week has been so busy and tiring!
 
 **Link to work:**
 
