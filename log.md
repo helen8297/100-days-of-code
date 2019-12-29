@@ -77,13 +77,13 @@
 
 
 
-### Day 9: 
+### Day 9: December 29th, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Signed up to stackoverflow, improved my linkedin profile and did lots of twitter browsing. Also completed the markdown tutorial and wrote it up to refer back to later on. 
 
-**Thoughts:**  
+**Thoughts:**  Happy to get back to it. Need to continue now so i'm ready for the start of bootcamp in Jan. Would like to start reading my books more often too. 
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/markdown-basics-4ca0
 
 
 
