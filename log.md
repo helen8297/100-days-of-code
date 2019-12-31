@@ -88,13 +88,13 @@
 
 
 
-### Day 10: 
+### Day 10: December 30th, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Completed lesson 5 of codecademy's CSS series - display and positioning. 
 
-**Thoughts:**  
+**Thoughts:**  Glad to finally have gotten onto something that explains positioning elements on a webpage - until now i've had no clue about how it works. 
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/codecademy-css-5-display-and-positioning-3j4c
 
 
 
