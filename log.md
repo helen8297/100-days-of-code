@@ -99,13 +99,13 @@
 
 
 
-### Day 11: 
+### Day 11: January 2nd, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Got half way through codecademy's grid lesson.
 
-**Thoughts:**  
+**Thoughts:**  Enjoying it and it makes sense!!
 
-**Link to work:**
+**Link to work:** When i've finished.
 
 
 
