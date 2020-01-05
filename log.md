@@ -110,13 +110,13 @@
 
 
 
-### Day 12: 
+### Day 12: January 5th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Finished the CSS grid essentials lesson and started advanced. Missed typography and colours somehow so i'll go back and do those too. 
 
-**Thoughts:**  
+**Thoughts:**  I'm not getting this in everyday as much as i'd like at least - so will make a better effort to do that. I'd like to finish CSS and get comfortably through the watch and code javascript before bootcamp...which starts in 15 days!!!
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/codecademy-css-6-grid-essentials-2lpp
 
 
 
