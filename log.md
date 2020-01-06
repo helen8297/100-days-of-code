@@ -121,7 +121,77 @@
 
 
 
-### Day 13: 
+### Day 13: January 6th, 2020
+
+**Today's Progress**: Completed the codecademy advanced lesson and wrote it all up on dev.
+
+**Thoughts:**  Starting to get a little worried about remembering all these properties exist and knowing what to use when. 
+
+**Link to work:** https://dev.to/helen8297/codecademy-css-7-advanced-grid-ami
+
+
+
+### Day 14: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+### Day 15: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+### Day 16: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+### Day 17: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+### Day 18: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+### Day 19: 
+
+**Today's Progress**: 
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+
+### Day 20: 
 
 **Today's Progress**: 
 
