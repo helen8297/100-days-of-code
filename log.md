@@ -131,13 +131,13 @@
 
 
 
-### Day 14: 
+### Day 14: January 7th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Completed and wrote up the CSS colours lesson and began the typography lesson.
 
-**Thoughts:**  
+**Thoughts:**  So close to finishing CSS and starting javascript finally!
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/codecademy-css-6-colours-5h01
 
 
 
