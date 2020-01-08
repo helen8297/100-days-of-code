@@ -141,13 +141,13 @@
 
 
 
-### Day 15: 
+### Day 15: January 8th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Codecademy CSS tutorial! I also finished writing it up so there is a 9 part series on dev.to. It's all paraphrased from the lessons but i'm quite proud!
 
-**Thoughts:**  
+**Thoughts:** Really pleased to have finished CSS. I'm going to start javascript next to get a bit of a head start ready for bootcamp, but I kind of wish i had more chance to practice using CSS/HTML properly with some projects as i've only done the tutorial. School of code first evening session tomorrow night which is HTML and CSS so hopefully we'll get some good practice.
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/codecademy-css-7-typography-p
 
 
 
