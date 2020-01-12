@@ -151,21 +151,21 @@
 
 
 
-### Day 16: 
+### Day 16: Thursday January 9th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Had the first SoC evening session. Understood everything that was covered, which was nice.
 
-**Thoughts:**  
+**Thoughts:**  Concerned about keeping up with javascript but will just take it as it comes.
 
-**Link to work:**
+**Link to work:** N/A
 
 
 
-### Day 17: 
+### Day 17: Saturday January 11th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Began Gordon Zhu's Watch and Code course. Watched 13 videos. 
 
-**Thoughts:**  
+**Thoughts:**  Excited to get started. 
 
 **Link to work:**
 
