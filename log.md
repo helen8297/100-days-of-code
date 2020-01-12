@@ -171,13 +171,13 @@
 
 
 
-### Day 18: 
+### Day 18: Sunday January 12th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Continued with watchandcode
 
-**Thoughts:**  
+**Thoughts:**  Enjoying it!
 
-**Link to work:**
+**Link to work:** https://dev.to/helen8297/watch-and-code-javascript-73
 
 
 
