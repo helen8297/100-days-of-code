@@ -181,17 +181,18 @@
 
 
 
-### Day 19: 
+### Day 19 and 20: Monday January 20th and Tuesday January 21st, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started School of Code. We had a visitor talk to get us started and then began coding. Learnt how to use the dev tools in chrome. Covered google fonts. Learnt about the viewport vw and vh. Looked at css positioning and inline/block/inline block. Looked at some CSS functions and animations. We began JavaScript with a vid about its history. Covered different types (number, string etc). Looked at arrays and objects.
+On day two we recapped operators. We began working on a rock, paper, scissors game by using if statements. We learnt how to start writing our problems out in comments so that we can break them down. We looked at taking repetition out of the code. We looked at functions and combined them with if statements. We made a function to calculate VAT. We used math.random() to generate a random number and we used this for the RPS game to generate a computer move. We used while loops and for loops. You can use loops to run your code for a certain number of times (make sure you specify!) We used things like alert and prompt to make our game a bit more interactive. We looked at the modulus thing and then I got completely lost trying to use it to build a fizzbuzz thing.
 
-**Thoughts:**  
+**Thoughts:**  Quite pleased with understanding pretty much everything as we've been going through it. Slightly worried about remembering how it can all piece together. I was very frustrated that I couldn't figure out really even how to begin the fizzbuzz problem. I was quite tired at this point but I'm not sure i'd have managed it even without that!
 
 **Link to work:**
 
 
 
-### Day 20: 
+### Day 21: 
 
 **Today's Progress**: 
 
